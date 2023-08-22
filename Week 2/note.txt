@@ -1,0 +1,13 @@
+'''
+We tackle about linked list and there is three (3) types of it:
+Singly - head and tails only, tail is NULL Value
+Doubly - has previous node and the next node
+Circular - the last node is linked to the first element or the head but the head previous value is NULL
+
+Nodes - laman ay data and pointer used in linked list
+pointer stores memory address of next node
+
+head = node 1
+tail = last node
+
+'''
